@@ -1,0 +1,19 @@
+{
+  "name": "cakru-day-ii",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyawaa/Percobaan_ARC_DAY-2_git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyawaa/Percobaan_ARC_DAY-2_git/issues"
+  },
+  "homepage": "https://github.com/tyawaa/Percobaan_ARC_DAY-2_git#readme",
+  "description": ""
+}
